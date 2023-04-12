@@ -1,2 +1,4 @@
 flask
 pyvibe
+pycob
+pandas
